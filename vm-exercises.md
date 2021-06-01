@@ -31,7 +31,7 @@
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![ex-1-sol](exercises/ex-1-sol.png)
 
 ## 2nd VM Exercise
 
@@ -67,5 +67,5 @@ Choosing the right selection options depends on the use case and in this excerci
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![ex-2-sol](exercises/ex-2-sol.png)
 
